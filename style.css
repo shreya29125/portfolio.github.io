@@ -28,7 +28,7 @@ body,html
 @keyframes appearfromright
 {
 	from {transform:translateX(30px);}
-	to {transform:translateX(1180px);}
+	to {transform:translateX(1600px);}
 }
 @keyframes appearfrombottom
 {
